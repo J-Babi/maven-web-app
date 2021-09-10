@@ -102,7 +102,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Landmark Technologies Snapshot Nexus Repositor</name>
 	      <url>http://3.20.224.26:8081/repository/mwa-snapshot/</url>
 	    </snapshotRepository>
 	    
