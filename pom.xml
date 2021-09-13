@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.38.138:8081/repository/mwa-release/</url>
+	      <url>http://3.23.61.81:8081/repository/mwa-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repositor</name>
-	      <url>http://172.31.38.138:8081/repository/msa-snapshot/</url>
+	      <url>http://3.23.61.81:8081/repository/msa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
