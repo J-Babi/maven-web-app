@@ -13,7 +13,7 @@
 <h2 align="center"> Welcome to Landmark Technology. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers, WITH EXTREME DESIRE TO SWITCH CAREERS TO WELL PAYING WORK FROM HOME ROLES IN IT. 
 	We offer interview preparations and job assitance. It is such a great feeling, CREATING OPPORTUNITIES FOR OUIR COMMUNITIES.
-	The shout of the King is in our midst. His name is JESUS.  Why wouldn't it be acknowledged</h2>
+	Why wouldn't it be acknowledged</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
