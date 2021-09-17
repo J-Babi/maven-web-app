@@ -12,7 +12,6 @@
 <h1 align="center">Landmark Technologies</h1>
 <h2 align="center"> Welcome to Landmark Technology. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
-	We offer interview preparations and job assitance. REATING OPPORTUNITIES FOR OUIR COMMUNITIES.
 	We offer interview preparations and job assitance. It is such a great feeling, CREATING OPPORTUNITIES FOR OUIR COMMUNITIES.
 	The shout of the King is in our midst. His name is JESUS.  Why wouldn't it be acknowledged</h2>
 <hr>
